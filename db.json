@@ -1,0 +1,173 @@
+{
+  "devicesList": [
+    {
+      "id": "1",
+      "deviceManfacturer": "Nokia"
+    },
+    {
+      "id": "2",
+      "deviceManfacturer": "Samsung"
+    },
+    {
+      "id": "3",
+      "deviceManfacturer": "Vivo"
+    },
+    {
+      "id": "4",
+      "deviceManfacturer": "Oppo"
+    },
+    {
+      "id": "5",
+      "deviceManfacturer": "Sony"
+    },
+    {
+      "id": "6",
+      "deviceManfacturer": "Redmi"
+    },
+    {
+      "id": "7",
+      "deviceManfacturer": "RealMe"
+    },
+    {
+      "id": "8",
+      "deviceManfacturer": "Apple-ios"
+    }
+  ],
+  "user": [
+    {
+      "name": "Ramu",
+      "address": "US",
+      "email": "Ramu@gmail.com",
+      "contact": "2394848",
+      "id": "2"
+    },
+    {
+      "name": "vijay",
+      "email": "vijay@gmail.com",
+      "contact": "48488484848",
+      "address": "India",
+      "id": "3YJvpTx"
+    },
+    {
+      "name": "vasu",
+      "email": "vasu@gmail.com",
+      "contact": "222424242",
+      "address": "Iran",
+      "id": "kMDXjOc"
+    },
+    {
+      "name": "Test1",
+      "email": "Test1@gmail.com",
+      "contact": "8484848",
+      "address": "India",
+      "id": "WBCPtq4"
+    },
+    {
+      "name": "Test2",
+      "email": "Test2@gmail.com",
+      "contact": "848848484",
+      "address": " Nepal",
+      "id": "WKZO947"
+    },
+    {
+      "name": "Test3",
+      "email": "Test3@gmail.com",
+      "contact": "3232224244",
+      "address": " Bangla Desh",
+      "id": "zcf6bzE"
+    },
+    {
+      "name": "Test4",
+      "email": "Test4@gmail.com",
+      "contact": "4848848484",
+      "address": " Srilanka",
+      "id": "dcc_1cQ"
+    },
+    {
+      "name": "Test5",
+      "email": "Test5@gmail.com",
+      "contact": "84884488",
+      "address": "China",
+      "id": "y4FaCjq"
+    },
+    {
+      "name": "Test6",
+      "email": "Test6@gmail.com",
+      "contact": "848448848",
+      "address": "Rashya",
+      "id": "pvVejIj"
+    },
+    {
+      "name": "Test7",
+      "email": "Test7@gmail.com",
+      "contact": "8484888383",
+      "address": "Astrailia",
+      "id": "LVsFEp6"
+    },
+    {
+      "name": "Test8",
+      "email": "Test8@gmail.com",
+      "contact": "432224242",
+      "address": " china",
+      "id": "0YKqPlj"
+    },
+    {
+      "name": "Test99",
+      "email": "Test9@gmail.com",
+      "contact": "94999494",
+      "address": " India",
+      "id": "Xzp_INu"
+    },
+    {
+      "name": "Raju",
+      "email": "raju@gmail.com",
+      "contact": "848488383",
+      "address": "India",
+      "id": "kd4ZK9m"
+    }
+  ],
+  "devices": [
+    {
+      "deviceType": "Mobile",
+      "osType": "Android",
+      "deviceModel": "Realme7",
+      "deviceManfacturer": "Samsung",
+      "id": "1"
+    },
+    {
+      "deviceType": "Mobile",
+      "osType": "Android",
+      "deviceModel": "RedMi10",
+      "deviceManfacturer": "Oppo",
+      "id": "2"
+    },
+    {
+      "deviceType": "Tablet",
+      "osType": "Android",
+      "deviceModel": "vivo v20",
+      "deviceManfacturer": "Redmi",
+      "id": "3"
+    },
+    {
+      "deviceType": "Tablet",
+      "deviceManfacturer": "RealMe",
+      "deviceModel": "Test Model",
+      "osType": "Android",
+      "id": "cIY5t1u"
+    },
+    {
+      "deviceType": "test kakfdk",
+      "deviceManfacturer": "Redmi",
+      "deviceModel": "test",
+      "osType": "android",
+      "id": "gqmc-5v"
+    },
+    {
+      "deviceType": "IOS",
+      "deviceManfacturer": "Apple-ios",
+      "deviceModel": "Apple 5s",
+      "osType": "IOS-2",
+      "id": "1KFF89s"
+    }
+  ]
+}
